@@ -1,0 +1,721 @@
+/*!
+ *  Iranian Icons 1.0.0 by Mohammad Amin Najafi - http://Iranianfonts.ir - @Iranianfonts
+ *  License - http://Iranianfonts.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+@font-face {
+    font-family: 'iranianicons';
+    src:    url('fonts/iranianicons-webfont.eot?fmhlsy');
+    src:    url('fonts/iranianicons-webfont.eot?fmhlsy#iefix') format('embedded-opentype'),
+        url('fonts/iranianicons.ttf?fmhlsy') format('truetype'),
+        url('fonts/iranianicons-webfont.woff?fmhlsy') format('woff'),
+        url('fonts/iranianicons-webfont.svg?fmhlsy#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'iranianicons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-twitter:before {
+    content: "\f099";
+}
+.icon-facebook:before {
+    content: "\f09a";
+}
+.icon-facebook-f:before {
+    content: "\f09a";
+}
+.icon-github:before {
+    content: "\f09b";
+}
+.icon-google-plus:before {
+    content: "\f0d5";
+}
+.icon-youtube:before {
+    content: "\f167";
+}
+.icon-xing:before {
+    content: "\f168";
+}
+.icon-youtube-play:before {
+    content: "\f16a";
+}
+.icon-dropbox:before {
+    content: "\f16b";
+}
+.icon-stack-overflow:before {
+    content: "\f16c";
+}
+.icon-instagram:before {
+    content: "\f16d";
+}
+.icon-apple:before {
+    content: "\f179";
+}
+.icon-windows:before {
+    content: "\f17a";
+}
+.icon-android:before {
+    content: "\f17b";
+}
+.icon-linux:before {
+    content: "\f17c";
+}
+.icon-dribbble:before {
+    content: "\f17d";
+}
+.icon-skype:before {
+    content: "\f17e";
+}
+.icon-foursquare:before {
+    content: "\f180";
+}
+.icon-trello:before {
+    content: "\f181";
+}
+.icon-vimeo-square:before {
+    content: "\f194";
+}
+.icon-wordpress:before {
+    content: "\f19a";
+}
+.icon-reddit:before {
+    content: "\f1a1";
+}
+.icon-stumbleupon:before {
+    content: "\f1a4";
+}
+.icon-delicious:before {
+    content: "\f1a5";
+}
+.icon-digg:before {
+    content: "\f1a6";
+}
+.icon-drupal:before {
+    content: "\f1a9";
+}
+.icon-joomla:before {
+    content: "\f1aa";
+}
+.icon-behance:before {
+    content: "\f1b4";
+}
+.icon-steam:before {
+    content: "\f1b6";
+}
+.icon-soundcloud:before {
+    content: "\f1be";
+}
+.icon-paper-plane:before {
+    content: "\f1d8";
+}
+.icon-send:before {
+    content: "\f1d8";
+}
+.icon-lastfm:before {
+    content: "\f202";
+}
+.icon-ansar .path1:before {
+    content: "\e900";
+    color: rgb(0, 0, 0);
+}
+.icon-ansar .path2:before {
+    content: "\e901";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-ansar .path3:before {
+    content: "\e902";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.icon-ansar .path4:before {
+    content: "\e903";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-ansar .path5:before {
+    content: "\e904";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.icon-ansar .path6:before {
+    content: "\e905";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-ansar .path7:before {
+    content: "\e906";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.icon-ansar .path8:before {
+    content: "\e907";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-aparat:before {
+    content: "\e908";
+}
+.icon-bisphone:before {
+    content: "\e909";
+}
+.icon-cloob:before {
+    content: "\e90a";
+}
+.icon-dey:before {
+    content: "\e90b";
+}
+.icon-gardeshgari:before {
+    content: "\e90c";
+}
+.icon-ghavamin:before {
+    content: "\e90d";
+}
+.icon-markazi:before {
+    content: "\e90e";
+}
+.icon-maskan:before {
+    content: "\e90f";
+}
+.icon-mehr:before {
+    content: "\e910";
+}
+.icon-mellat:before {
+    content: "\e911";
+}
+.icon-melli:before {
+    content: "\e912";
+}
+.icon-parsian:before {
+    content: "\e913";
+}
+.icon-refah:before {
+    content: "\e914";
+}
+.icon-saderat:before {
+    content: "\e915";
+}
+.icon-salehin:before {
+    content: "\e916";
+}
+.icon-saman:before {
+    content: "\e917";
+}
+.icon-sarmayeh:before {
+    content: "\e918";
+}
+.icon-sepah .path1:before {
+    content: "\e919";
+    color: rgb(0, 0, 0);
+}
+.icon-sepah .path2:before {
+    content: "\e91a";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.icon-sepah .path3:before {
+    content: "\e91b";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.icon-sepah .path4:before {
+    content: "\e91c";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path5:before {
+    content: "\e91d";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path6:before {
+    content: "\e91e";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path7:before {
+    content: "\e91f";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path8:before {
+    content: "\e920";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path9:before {
+    content: "\e921";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path10:before {
+    content: "\e922";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path11:before {
+    content: "\e923";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path12:before {
+    content: "\e924";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path13:before {
+    content: "\e925";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path14:before {
+    content: "\e926";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path15:before {
+    content: "\e927";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path16:before {
+    content: "\e928";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path17:before {
+    content: "\e929";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path18:before {
+    content: "\e92a";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path19:before {
+    content: "\e92b";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path20:before {
+    content: "\e92c";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path21:before {
+    content: "\e92d";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path22:before {
+    content: "\e92e";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path23:before {
+    content: "\e92f";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path24:before {
+    content: "\e930";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path25:before {
+    content: "\e931";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path26:before {
+    content: "\e932";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path27:before {
+    content: "\e933";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path28:before {
+    content: "\e934";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path29:before {
+    content: "\e935";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path30:before {
+    content: "\e936";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path31:before {
+    content: "\e937";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path32:before {
+    content: "\e938";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path33:before {
+    content: "\e939";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path34:before {
+    content: "\e93a";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path35:before {
+    content: "\e93b";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path36:before {
+    content: "\e93c";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path37:before {
+    content: "\e93d";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path38:before {
+    content: "\e93e";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path39:before {
+    content: "\e93f";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path40:before {
+    content: "\e940";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path41:before {
+    content: "\e941";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path42:before {
+    content: "\e942";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path43:before {
+    content: "\e943";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path44:before {
+    content: "\e944";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path45:before {
+    content: "\e945";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path46:before {
+    content: "\e946";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path47:before {
+    content: "\e947";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path48:before {
+    content: "\e948";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path49:before {
+    content: "\e949";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path50:before {
+    content: "\e94a";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path51:before {
+    content: "\e94b";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path52:before {
+    content: "\e94c";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path53:before {
+    content: "\e94d";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path54:before {
+    content: "\e94e";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path55:before {
+    content: "\e94f";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path56:before {
+    content: "\e950";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path57:before {
+    content: "\e951";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path58:before {
+    content: "\e952";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path59:before {
+    content: "\e953";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path60:before {
+    content: "\e954";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path61:before {
+    content: "\e955";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path62:before {
+    content: "\e956";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path63:before {
+    content: "\e957";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path64:before {
+    content: "\e958";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path65:before {
+    content: "\e959";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path66:before {
+    content: "\e95a";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path67:before {
+    content: "\e95b";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path68:before {
+    content: "\e95c";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path69:before {
+    content: "\e95d";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path70:before {
+    content: "\e95e";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path71:before {
+    content: "\e95f";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path72:before {
+    content: "\e960";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path73:before {
+    content: "\e961";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path74:before {
+    content: "\e962";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path75:before {
+    content: "\e963";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path76:before {
+    content: "\e964";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path77:before {
+    content: "\e965";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path78:before {
+    content: "\e966";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path79:before {
+    content: "\e967";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path80:before {
+    content: "\e968";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path81:before {
+    content: "\e969";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path82:before {
+    content: "\e96a";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path83:before {
+    content: "\e96b";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path84:before {
+    content: "\e96c";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path85:before {
+    content: "\e96d";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path86:before {
+    content: "\e96e";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path87:before {
+    content: "\e96f";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path88:before {
+    content: "\e970";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path89:before {
+    content: "\e971";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path90:before {
+    content: "\e972";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path91:before {
+    content: "\e973";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path92:before {
+    content: "\e974";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path93:before {
+    content: "\e975";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path94:before {
+    content: "\e976";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path95:before {
+    content: "\e977";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path96:before {
+    content: "\e978";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path97:before {
+    content: "\e979";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-sepah .path98:before {
+    content: "\e97a";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.icon-shahr:before {
+    content: "\e97b";
+}
+.icon-sina:before {
+    content: "\e97c";
+}
+.icon-tejarat:before {
+    content: "\e97d";
+}
+.icon-telegram:before {
+    content: "\e97e";
+}
+
