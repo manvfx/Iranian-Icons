@@ -6,6 +6,6 @@ The The iconic font and CSS framework
 #### Bower install
 To get the latest stable version, use bower from the command line.
 ```
-$ bower install iranian-icons
+$ bower install man.iranianicons
 ```
 
