@@ -8,7 +8,7 @@
     src:    url('fonts/iranianicons-webfont.eot?fmhlsy#iefix') format('embedded-opentype'),
         url('fonts/iranianicons.ttf?fmhlsy') format('truetype'),
         url('fonts/iranianicons-webfont.woff?fmhlsy') format('woff'),
-        url('fonts/iranianicons-webfont.svg?fmhlsy#icomoon') format('svg');
+        url('fonts/iranianicons-webfont.svg?fmhlsy#iranianfonts') format('svg');
     font-weight: normal;
     font-style: normal;
 }
