@@ -1,0 +1,18 @@
+{
+  "name": "iranian-icons",
+  "homepage": "https://github.com/manvfx/Iranian-Icons",
+  "authors": [
+    "manvfx@gmail.com"
+  ],
+  "description": "Iranian Icons form web",
+  "main": "iranianicons.min.css",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
